@@ -1,0 +1,7 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+build/
+
+# Blokada zaleznosci nalezy do APLIKACJI, nie do biblioteki — tu tylko przeszkadza.
+pubspec.lock
