@@ -31,7 +31,7 @@ dependencies:
 
 ## Where it is used
 
-- [sensmos-app](https://github.com/Galusz/sensmos-app) — the phone app, which holds the wallet
-- [sensmos-store-desktop](https://github.com/Galusz/sensmos-store-desktop) — Windows, Linux, macOS
+- [sensmos-app](https://github.com/sensmos-network/sensmos-app) — the phone app, which holds the wallet
+- [sensmos-store-desktop](https://github.com/sensmos-network/sensmos-store-desktop) — Windows, Linux, macOS
 
 Comments in the source are in Polish; everything a user sees is translated in the apps.
